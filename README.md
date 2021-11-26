@@ -1,6 +1,7 @@
+![Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, I am Ariful Haque
 #### Junior Web Developer
-![Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi, I am a junior web developer. I am currently working on mid level projects. I am passionate about web programming.
 
@@ -14,6 +15,8 @@ Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS.JS /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulhaque145)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifulhaque145&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arifulhaque145)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifulhaque145)  
 
