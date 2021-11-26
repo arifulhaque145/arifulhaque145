@@ -1,5 +1,3 @@
-![Junior Web Developer](https://skywell.software/wp-content/uploads/2018/12/web-development-1024x605.jpg)
-
 ### Hi there 👋, I am Ariful Haque
 #### Junior Web Developer
 
