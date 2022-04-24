@@ -3,7 +3,7 @@
 
 Hi, I am a junior web developer. I am currently working on mid level projects. I am passionate about web programming.
 
-Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS.JS /
+Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS.JS / TYPESCRIPT
 
 - 🔭 I’m currently working on Food Delivery App 
 
