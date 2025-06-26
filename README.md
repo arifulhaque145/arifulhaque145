@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ariful Haque
 #### Junior Web Developer
 
-Hi, I am a junior web developer. I am currently working on mid level projects. I am passionate about web programming.
+Hi, I'm a Junior Web Developer passionate about building functional and user-friendly web applications. Currently working on mid-level projects to sharpen my skills and expand my portfolio. I enjoy turning ideas into code and continuously learning new technologies to grow as a developer.
 
 Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS.JS / TYPESCRIPT
 
