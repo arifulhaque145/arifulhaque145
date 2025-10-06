@@ -53,9 +53,9 @@ I’m a passionate **MERN Stack Developer** who loves building scalable, user-fr
 
 ## 📬 Contact Me  
 
-- 🌐 Portfolio: [arifulhaque.dev](#)  
-- 💼 LinkedIn: [linkedin.com/in/arifulhaque](#)  
-- 📧 Email: **arifulhaque.dev@gmail.com**  
+- 🌐 Portfolio: [arifcse](https://arifcse.netlify.app/)  
+- 💼 LinkedIn: [linkedin.com/in/arifulhaque](https://www.linkedin.com/in/arifhqcse/)
+- 📧 Email: **arifulh145@gmail.com**  
 
 ---
 
