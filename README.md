@@ -61,7 +61,7 @@ I’m a passionate **MERN Stack Developer** who loves building scalable, user-fr
 
 ## 💡 Quote  
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+> *"Everybody in this country should learn to program a computer, because it teaches you how to think."* – Steve Jobs  
 
 ---
 ⭐️ From [Ariful Haque](https://github.com/arifulhaque145)
